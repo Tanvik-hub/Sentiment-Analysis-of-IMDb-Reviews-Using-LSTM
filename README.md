@@ -1,4 +1,4 @@
-# Sentiment Analysis of IMDb Reviews Using LSTM
+# Sentiment Analysis of IMDb Reviews Using LSTM Model
  
 
 
@@ -17,12 +17,3 @@ Long Short-Term Memory (LSTM) networks are a type of recurrent neural network (R
 - Predicts whether a movie review is positive or negative
 - Utilizes an LSTM model for sentiment classification
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/<your-username>/sentiment-analysis-imdb-reviews-lstm.git
-   cd sentiment-analysis-imdb-reviews-lstm
